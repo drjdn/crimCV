@@ -1,0 +1,12 @@
+useDynLib(crimCV, .registration = TRUE)
+
+export(crimCV)
+importFrom(splines, bs)
+importFrom(graphics, matplot)
+importFrom(stats, var)
+importFrom(utils, flush.console)
+
+S3method(plot, dmZIP)
+S3method(summary, dmZIP)
+S3method(plot, dmZIPt)
+S3method(summary, dmZIPt)
