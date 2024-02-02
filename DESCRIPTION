@@ -6,6 +6,7 @@ Author: Jason D. Nielsen <drjdnielsen@gmail.com>
 Maintainer: Jason D. Nielsen <jdn@math.carleton.ca>
 Depends: R (>= 3.5.0), splines
 Description: A finite mixture of Zero-Inflated Poisson (ZIP) models for analyzing criminal trajectories.
+URL: https://github.com/drjdn/crimCV
 License: GPL (>= 2)
 NeedsCompilation: yes
 Packaged: 2023-09-14 21:18:24 UTC; jdn
